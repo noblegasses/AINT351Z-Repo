@@ -1,0 +1,3 @@
+/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/CMakeFiles/gettingstarted.dir

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="gettingstarted" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="gettingstarted">
+         <Option output="/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/gettingstarted" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 gettingstarted" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="gettingstarted/fast">
+         <Option output="/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/gettingstarted" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 gettingstarted/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nick/Documents/roco318/practicals/starter_task/build-gettingstarted-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/nick/Documents/roco318/practicals/starter_task/gettingstarted/main.c">
+         <Option target="gettingstarted"/>
+      </Unit>
+      <Unit filename="/home/nick/Documents/roco318/practicals/starter_task/gettingstarted/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
