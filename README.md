@@ -1,1 +1,1 @@
-AINT351Z Repo
+A repository of my work for my AI course at Plymouth University
